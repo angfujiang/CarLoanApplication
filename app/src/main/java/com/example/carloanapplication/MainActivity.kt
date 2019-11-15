@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
             editTextLoanPeriod.setText("")
             textViewInterest.setText("Interest:")
             textViewLoan.setText("Loan:")
-            textViewMonthlyRepayment.setText("Monthly Repayment:")
+            textViewMonthlyRepayment.setText("Monthly Repayment :")
         }
 
     }
